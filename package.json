@@ -1,0 +1,31 @@
+{
+	"name": "The-Orange-Box-Theme",
+	"displayName": "The Orange Box Theme",
+	"description": "The orange box is awesome",
+	"version": "1.0.0",
+	"publisher": "ardencod3",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.jpg",
+	"homepage": "",
+	"repository": {
+		"type": "",
+		"url": ""
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "the orange box",
+				"uiTheme": "vs-dark",
+				"path": "./themes/theorangebox.tmTheme"
+			}
+		]
+	},
+	"__metadata": {
+
+	}
+}
